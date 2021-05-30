@@ -1,6 +1,6 @@
 # vue.tmp
 
-> A Vue.js project
+> The Demo to Learning Vue.
 
 ## Build Setup
 
@@ -28,3 +28,7 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+## Credit
+
+- [Link](https://juejin.cn/post/6844903683860201486)
